@@ -5,4 +5,4 @@ I'm a second-year **Computer Science & Economics** student at **Northeastern Uni
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshjafri/)
 - Contact me at [jafri.ar@northeastern.edu](mailto:jafri.ar@northeastern.edu)
 - See all my projects at [arshjafri.com](https://arshjafri.com)
-- View my [Resume](https://arshjafri.com/static/media/ArshJafri-Resume.160df008caecec02d03d.pdf)
+- View my [Resume](https://arshjafri.com/static/media/ArshJafri-Resume.84ce20b56097380044b5.pdf)

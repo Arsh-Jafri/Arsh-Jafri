@@ -1,4 +1,4 @@
-# Hey, I'm Arsh! 👋
+# Hey, I'm Arsh!
 
 I'm a third-year **Computer Science & Economics** student at **Northeastern University**, passionate about building impactful software. My interests include **AI/ML, Full-Stack Development, FinTech, and Data Science**, and I'm always exploring **new technologies & innovative solutions**.
 
